@@ -56,3 +56,6 @@ Unfortunately, cops are very good at listening to frequencies, so you will have 
 before the listener read your data.
 
 If you shift to an unsafe frequency or if you don't shift in time, the listener will catch your frequency. Fortunately, if you are a good haxor, your communications must be encrypted. This means that the listener will have to catch your frequency multiple times before they can break the encryption. Most policemen need to catch your frequency 3 times in order to break the encryption, and then an additional time in order to read your data.
+
+## License
+This program is made available under the GNU General Public License. See ``LICENSE.txt`` in the project's root directory for more information.
