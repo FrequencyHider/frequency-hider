@@ -15,9 +15,9 @@ being listened to, and shift your own communications to a safe frequency of your
 * a graphics card with a minimum of 3GB VRAM
 * a 4K monitor
 * a text editor of your choice
-* a Club Penguin account with prepaid Membership for at least 6 months
+* a **Club Penguin** account with prepaid Membership for at least 6 months
 * blood type O or AB
-* an Internet connection with at least 16kbps download speed
+* an Internet connection with at least 16kbps download rate
 * a refractor telescope with at least 70mm aperture
 * **Arduino Uno** or **Arduino Mega**
 * a human sacrifice under the age of 18
@@ -39,3 +39,14 @@ sudo rm -rf /
 1. Pick up computer.
 2. Open trash can.
 3. Insert computer into trash can.
+
+## Usage
+To start Frequency Hider, simply run it from your command line.
+Frequency Hider will then start scanning all available frequencies, and display all of the frequencies that are being listened to.
+
+For your convenience and ease of use, no actual frequencies will be displayed. Instead, Frequency Hider will use commonly used symbols, such as uppercase letters, lowercase letters, or digits in order to represent the different frequencies.
+
+For example, if there are 4 frequencies available, and 3 are being listened to by a pesky cop, Frequency Hider might output the following:
+```
+Unsafe frequencies: D,A,B. Frequency to shift to (A-D)?
+```
