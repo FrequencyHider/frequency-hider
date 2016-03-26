@@ -46,7 +46,7 @@ Frequency Hider will then start scanning all available frequencies, and display 
 
 For your convenience and ease of use, no actual frequencies will be displayed. Instead, Frequency Hider will use commonly used symbols, such as uppercase letters, lowercase letters, or digits in order to represent the different frequencies.
 
-For example, if there are 4 frequencies available, and 3 are being listened to by a pesky cop, Frequency Hider might output the following:
+For example, if there are 4 frequencies available, and 3 are being listened to by the police, Frequency Hider might output the following:
 ```
 Unsafe frequencies: D,A,B. Frequency to shift to (A-D)?
 ```
