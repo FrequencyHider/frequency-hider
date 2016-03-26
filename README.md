@@ -50,3 +50,9 @@ For example, if there are 4 frequencies available, and 3 are being listened to b
 ```
 Unsafe frequencies: D,A,B. Frequency to shift to (A-D)?
 ```
+In this case, the user must type C and press ENTER in order to shift to the only safe frequency - C.
+
+Unfortunately, cops are very good at listening to frequencies, so you will have only a few seconds to shift the frequency
+before the listener read your data.
+
+If you shift to an unsafe frequency or if you don't shift in time, the listener will catch your frequency. Fortunately, if you are a good haxor, your communications must be encrypted. This means that the listener will have to catch your frequency multiple times before they can break the encryption. Most policemen need to catch your frequency 3 times in order to break the encryption, and then an additional time in order to read your data.
