@@ -1,8 +1,8 @@
 # frequency-hider
-Frequency Hider allows you to shift your communications between frequncies in order to hide them from 
+Frequency Hider allows you to shift your communications between frequencies in order to hide them from 
 unwanted eavesdroppers.
 Have you ever been in the middle of hacking a cyberspace when some pesky cop started listening to your frequencies?
-Frequency Hider provides a simple-to-use, intuitive text-based interface that allows you to see which frequncies are
+Frequency Hider provides a simple-to-use, intuitive text-based interface that allows you to see which frequencies are
 being listened to, and shift your own communications to a safe frequency of your choice.
 
 ## Getting Started
