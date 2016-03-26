@@ -1,12 +1,12 @@
 # frequency-hider
-Frequency Hider allows you to shift your communications between frequncies in order to hide your communications from 
+Frequency Hider allows you to shift your communications between frequncies in order to hide them from 
 unwanted eavesdroppers.
 Have you ever been in the middle of hacking a cyberspace when some pesky cop started listening to your frequencies?
 Frequency Hider provides a simple-to-use, intuitive text-based interface that allows you to see which frequncies are
 being listened to, and shift your own communications to a safe frequency of your choice.
 
 ## Getting Started
-### Dependencies
+### Requirements
 * **Python 2.7**
 * **Python 3.4**
 * **Internet Explorer 9**
@@ -14,6 +14,7 @@ being listened to, and shift your own communications to a safe frequency of your
 * an **Occulus Rift** or similar VR headset
 * a graphics card with a minimum of 3GB VRAM
 * a 4K monitor
+* a text editor of your choice
 * a Club Penguin account with prepaid Membership for at least 6 months
 * blood type O or AB
 * an Internet connection with at least 16kbps download speed
@@ -23,3 +24,4 @@ being listened to, and shift your own communications to a safe frequency of your
 * **JDK** 7 or newer
 
 ### Installation
+#### Windows
